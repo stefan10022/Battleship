@@ -20,7 +20,3 @@ class Ship {
 }
 
 export default Ship;
-
-
-
-// export default Ship;
